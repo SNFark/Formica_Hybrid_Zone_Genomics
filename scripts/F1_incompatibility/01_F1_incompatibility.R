@@ -1,5 +1,5 @@
 # ==============================================================================
-# F1 hybrid compatibility and candidate incompatibility analysis
+# F1 hybrid incompatibility analysis
 # ==============================================================================
 #
 # Purpose
