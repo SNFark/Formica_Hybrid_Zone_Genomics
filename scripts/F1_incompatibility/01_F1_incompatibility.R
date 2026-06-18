@@ -4,7 +4,7 @@
 #
 # Purpose
 # -------
-# This script estimates local F1 hybrid compatibility across the genome using
+# This script estimates local F1 hybrid incompatibility across the genome using
 # windowed PC1 scores from parental and F1 individuals.
 #
 # For each genomic window, the script asks whether F1 individuals fall within the
@@ -13,7 +13,7 @@
 # compatibility.
 #
 # The script also:
-#   1. compares compatibility estimates across alternative parental sampling schemes;
+#   1. compares incompatibility estimates across alternative parental sampling schemes;
 #   2. aggregates candidate incompatibility signals into genomic bins;
 #   3. tests overlap with high-FST regions;
 #   4. fits models controlling for FST and parental PC1 distance;
