@@ -1,0 +1,5 @@
+# One sorted, indexed BAM path per line.
+# Lines starting with # and blank lines are ignored.
+/path/to/sample1_markdup.sorted.bam
+/path/to/sample2_markdup.sorted.bam
+/path/to/sample3_markdup.sorted.bam
