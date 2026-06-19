@@ -11,9 +11,6 @@ DOI: https://doi.org/10.5281/zenodo.20762532
 ### curated_ROIs_female_defined.tsv
 Final manually curated introgressed regions of interest (ROIs) used in downstream analyses. Coordinates are reported in megabases (Mb). These ROIs were derived from automated candidate detection followed by visual inspection of smoothed introgression profiles.
 
-### automatic_candidate_ROIs.tsv
-First-pass candidate introgressed regions generated from dosage-aware female DIEM output. These candidates served as a guide for manual curation and were not used directly in downstream analyses.
-
 ### samples_metadata.csv
 Sample identifiers, species assignments, and social genotypes. Sex is inferred from genotype ploidy in the scripts.
 
